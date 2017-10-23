@@ -1,0 +1,12 @@
+Describe for app:
+- In today’s world, healthcare is the most important parts of people’s life. Further, without health, people won’t have ability to do other things.
+- However, some people find it difficult to manage their time, controllability over the amount of food consumed as well as the diet. 
+- That’s the main reason we develop an application named Calorize to help people keep track of their health and we provide some procedure to support user aiming to their goal of fitness.
+
+Features:
+	- Evaluate total calorie your body needs to get fit
+	- Convert your meals into calories
+	- Record your daily process
+	- List out the information of your foods
+	- Share your result to challenge your friends 
+	- Now supported Android 5.0 or newer

@@ -1,0 +1,45 @@
+
+1. Sign up with facebook and create a profile
+- when creating a profile, users must fill in the following information:
+	. Name
+	. Age
+	. Weight
+	. Height
+- The information above is used for calculating the amount of calories needed each day
+
+2. Convert food to calories
+- Predefine a fix amount of calories for each type of food
+- Let users choose which type of food and specify the amount (how many grams) for 3 meals per day
+- Then show the amount of calories, including:
+	. The total amount of calories each day
+	. The amount of calories that currently inputting
+
+3. Compare the amount calories needed each meal per day to the amount actually intaked
+- Predefine a standard amount of calories needed for each meal base on users information
+- Compare with real-life data to inform users the result
+
+4. Recommend system
+- If less calories than the standard: recommend food to eat
+- If more calories than the standard: recommend execise to do
+
+5. Record data of each day
+- Data include: 
+	. amount of calories intake
+	. a picture taken by users of their body (optional)
+	. weight/height (if updated)
+
+6. Show progress:
+- display histogram of the calories intake per day of a period of time
+	. e.g. 1 week, 1 month,...
+- display detail information of 2 selected day for comparision
+	. e.g. day 1 vs day 30
+	. information shown: calories intake, weight, height, picture (optional)
+
+7. List information of a few food
+- Show information of types of food
+	. Beef contains n calories, n protein, n fat
+	. Rice contains n calories, n protein, n fat
+- Allow search for type of food
+
+8. Share daily result to facebook
+- Share how many calories user has already eaten today, picture of today(optional), join he/she to use this very good app
